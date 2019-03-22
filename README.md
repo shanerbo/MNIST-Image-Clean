@@ -1,8 +1,11 @@
 # MNIST-Image-Clean
 
-Download MNIST Images Set from [here](http://yann.lecun.com/exdb/mnist/)
+### What's the purpose of this project?
 
+MnistImageClean extracts digit(s) images you want and create train folder and test folder.
 mnistImageConvertor.py will converte MNIST images into png format
 
-MnistImageClean extract digit(s) images you want and create train folder and test folder.
+### How to get started?
+Download MNIST Images Set from [here](http://yann.lecun.com/exdb/mnist/)
+
 
